@@ -1,2 +1,2 @@
-# velasquez-gym
-Next React Boilerplate
+# Next React Boilerplate
+NextJS + Express Boilerplate with MVC Architecture
